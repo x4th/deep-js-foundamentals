@@ -1,1 +1,1 @@
-# Deep JavaScript Foundations Frontend Masters course exercises
+# Deep JavaScript foundations course exercises
