@@ -11,7 +11,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}/scope-exercises/modules/ex.js"
+      "program": "${workspaceFolder}/objects-exercises/class/ex.js"
     }
   ]
 }
